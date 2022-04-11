@@ -1,2 +1,2 @@
 # TBWA
-SC Automation
+Standard Chartered Process Automation for TBWA\Singapore
